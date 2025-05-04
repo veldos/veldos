@@ -101,6 +101,8 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
 &theme=compact">
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=3pnc2r1phwm2rj281hw7xwj7h&count=5&color=1DB954">
+
+
 # Quick Links
 
 <a href="https://www.linkedin.com/in/aymane-el-bekkali/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
