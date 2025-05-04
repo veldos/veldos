@@ -97,7 +97,13 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
 - <strong>Full professional proficiency:</strong> English, Deutsch, French
 - <strong>Native or bilingual proficiency:</strong> Arabic
 
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3pnc2r1phwm2rj281hw7xwj7h&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3pnc2r1phwm2rj281hw7xwj7h&count=5">
+</p>
 # Quick Links
 
 <a href="https://www.linkedin.com/in/aymane-el-bekkali/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
