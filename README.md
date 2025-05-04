@@ -25,7 +25,7 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
   </tr>
   <tr>
     <td>MSc in Machine Learning & Multimedia Intelligence</td>
-    <td><a href="https://www.usmba.ac.ma/">Sidi Mohamed Ben Abdellah University</a>, Fes</td>
+    <td><a href="https://www.usmba.ac.ma/">Sidi Mohamed Ben Abdellah University</a></td>
     <td>2024-2026</td>
     <td>
       • Signal processing, stochastic processes<br>
@@ -35,7 +35,7 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
   </tr>
   <tr>
     <td>Bachelor's in Computer Science</td>
-    <td>Faculty of Sciences Dhar El Mahraz (FSDM)</td>
+    <td><a href="https://www.fsdm.usmba.ac.ma">Faculty of Sciences Dhar El Mahraz (FSDM)</td>
     <td>2020-2023</td>
     <td>
       • Algorithms & Programming (C/Java/PHP)<br>
@@ -45,7 +45,7 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
   </tr>
   <tr>
     <td>Associate Degree in Computer Science</td>
-    <td>Faculty of Sciences Dhar El Mahraz (FSDM)</td>
+    <td><a href="https://www.fsdm.usmba.ac.ma">Faculty of Sciences Dhar El Mahraz (FSDM)</td>
     <td>2020-2022</td>
     <td>
       • Calculus & Advanced Algebra<br>
@@ -55,28 +55,6 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
   </tr>
 </table>
 
-
-# Projects
-
-- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
-- [Gist. Social Media Website](https://anirudhbelwadi.pythonanywhere.com)
-- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Mathematical library in python](https://github.com/snehil03july/mathpy)
-
-# Tech Stack
-
-### Front End
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Android-9FC037?style=for-the-badge&logo=android&logoColor=white">
-
-### Back End
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/Java-e11e21?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B">
-
-
-
 # Licences and Certifications
 
 - [![Machine Learning](https://img.shields.io/badge/Coursera-Machine_Learning_Specialization-0056D2?logo=coursera)](https://www.coursera.org/account/accomplishments/specialization/5U9CMNWFIQYJ)  
@@ -84,32 +62,42 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
 - [![TensorFlow](https://img.shields.io/badge/Coursera-Custom_TensorFlow_Models-0056D2?logo=coursera)](https://www.coursera.org/account/accomplishments/verify/K4VLNPFSP0W2)  
 - [![Generative AI](https://img.shields.io/badge/Coursera-Generative_AI_&_LLMs-0056D2?logo=coursera)](https://www.coursera.org/account/accomplishments/verify/6KIV6DK8LASM)
 
-# Skills
 
-- Full Stack Web Development
-- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
-- Photography
-- Operation Systems: Windows, Ubuntu, Kali
-- Softwares
-<table>
-  <tr>
-    <th>Imaging</th>
-    <td><img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"> <img src="https://img.shields.io/badge/Lightroom-24A3F7?style=for-the-badge&logo=adobe&logoColor=001D3F"> <img src="https://img.shields.io/badge/Snapseed-0B7D40?style=for-the-badge&logo=google&logoColor=ACF756"></td>
-  </tr>
-  <tr>
-    <th>Video</th>
-    <td><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-E287F6?style=for-the-badge&logo=adobe&logoColor=140122"> <img src="https://img.shields.io/badge/Rush-9494F7?style=for-the-badge&logo=adobe&logoColor=000058"></td>
-  </tr>
-  <tr>
-    <th>Graphics and Prototyping</th>
-    <td><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> </td>
-  </tr>
- </table>
 
-  
+# Tech Stack
+
+## 🖥️ Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+## 💻 Operating Systems
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+
+## 🌐 Web Development
+### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+
+### Backend
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+## 🗃️ Databases & Big Data
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"> <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+
+## 🤖 AI/ML Stack
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+## ☁️ DevOps & Cloud
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+## 📊 Business Intelligence
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/SSIS-1F618D?style=for-the-badge&logo=database&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/SSAS-2980B9?style=for-the-badge&logo=cube&logoColor=white">
+
+
+
 # Languages
 - <strong>Full professional proficiency:</strong> English, Deutsch, French
 - <strong>Native or bilingual proficiency:</strong> Arabic
+
+
 # Quick Links
 
 <a href="https://www.linkedin.com/in/aymane-el-bekkali/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
