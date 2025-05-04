@@ -3,6 +3,9 @@
 
 # About myself
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true"/>
+</p>
 
 I’m an MSc student specializing in Machine Learning and Multimedia Intelligence, with a strong passion for AI, mathematical optimization, and solving complex operational challenges. Whether it’s dynamic dial-a-ride systems, scheduling optimization, or power flow management, I thrive on applying cutting-edge technologies to real-world problems. My goal is to leverage my skills in AI, data science, and optimization to make a tangible impact across industries like mobility, healthcare, energy, and beyond. I’m currently seeking a summer internship or Professional Training Period (PFA) to contribute to impactful projects and grow as a problem-solver.
 
