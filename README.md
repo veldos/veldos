@@ -111,8 +111,6 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
 <a href="https://www.linkedin.com/in/aymane-el-bekkali/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
 <a href=""><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:elbekkaliaymane@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://g.dev/anirudhbelwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/googledev.png"></a>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
