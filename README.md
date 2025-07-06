@@ -108,15 +108,9 @@ I’m an MSc student specializing in Machine Learning and Multimedia Intelligenc
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/aymane-el-bekkali/">
-  <img src="https://raw.githubusercontent.com/veldos/veldos/main/linkedin-logo-linkedin-icon-transparent-free-png.webp" alt="LinkedIn" height="20" style="vertical-align:middle; margin: 0 10px;">
-</a>
-<a href="">
-  <img src="https://github.com/anirudhbelwadi/anirudhbelwadi/raw/master/images/resume.png" alt="Resume" height="24" style="vertical-align:middle; margin: 0 8px;">
-</a>
-<a href="mailto:elbekkaliaymane@gmail.com">
-  <img src="https://github.com/anirudhbelwadi/anirudhbelwadi/raw/master/images/email.png" alt="Email" height="24" style="vertical-align:middle; margin: 0 8px;">
-</a>
+[LinkedIn 🔗](https://www.linkedin.com/in/aymane-el-bekkali/)  
+[Resume 📄](YOUR_RESUME_LINK)  
+[Email ✉️](mailto:elbekkaliaymane@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
